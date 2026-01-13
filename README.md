@@ -63,15 +63,13 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=50&theme=tokyonight&hide_border=true" />
+    <img height="270em" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=50&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal&quote=In+the+endless+loop+of+learning%2C+every+bug+is+a+feature+waiting+to+be+discovered." />
-  </a>
 </div>
 
 <br/>
