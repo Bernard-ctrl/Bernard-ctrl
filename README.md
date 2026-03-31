@@ -75,6 +75,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=Thanks%20for%20visiting%21&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=75#gh-dark-mode-only" alt="Thanks for visiting in dark mode" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=110&section=footer&text=Thanks%20for%20visiting%21&fontSize=30&fontColor=0B1F3A&animation=twinkling&fontAlignY=75#gh-light-mode-only" alt="Thanks for visiting in light mode" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=Thanks%20for%20visiting%21&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=75" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=110&section=footer&text=Thanks%20for%20visiting%21&fontSize=30&fontColor=0B1F3A&animation=twinkling&fontAlignY=75" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=Thanks%20for%20visiting%21&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=75" alt="Thanks for visiting" />
+  </picture>
 </p>
