@@ -64,6 +64,7 @@
 <div align="center">
     <img height="180em" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
     <img height="180em" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=50&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=bernard-ctrl&theme=dark&hide_border=true&bernard-ctrl&layout=compact&langs_count=50&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
