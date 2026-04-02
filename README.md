@@ -77,5 +77,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&color=0:1f2937,100:4f46e5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=222222&color=0:e5e7eb,100:c7d2fe"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=222222&color=0:e5e7eb,100:c7d2fe"/>
+  </picture>
 </p>
