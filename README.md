@@ -1,8 +1,13 @@
+
 <div align="center">
 
 # `Bernard.exe`
 
 ### High-school developer | curious builder | professional bug creator
+
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=550&lines=Building+things%2C+one+commit+at+a+time;Learning+something+new+every+day;Turning+ideas+into+code;Breaking+things+and+fixing+them" alt="Typing SVG" />
+</a>
 
 ```text
 > booting bernard.exe...
@@ -40,11 +45,20 @@ communication: say hi - I'm always happy to talk tech
 - Exploring new languages, tools, and frameworks
 - Turning small experiments into useful projects
 
+## `currently_learning`
+
+```yaml
+- exploring: Advanced web development
+- improving: Programming fundamentals
+- experimenting: New frameworks and technologies
+- goal: Build better things with every project
+```
+
 ## `tech_stack`
 
 ### Frontend
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,7 +69,7 @@ communication: say hi - I'm always happy to talk tech
 
 ### Languages, backend, and tools
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -70,19 +84,18 @@ communication: say hi - I'm always happy to talk tech
 ## `github --stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&hide_border=true" alt="Bernard's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Bernard's most used languages" />
-  <img
-  src="https://streak-stats.demolab.com?user=Bernard-ctrl&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-</div>
 
+<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&hide_border=true" alt="Bernard's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Bernard's most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Bernard-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ## `contribution_activity`
 
 <div align="center">
-
 
 <picture>
   <source
@@ -99,9 +112,7 @@ communication: say hi - I'm always happy to talk tech
   />
 </picture>
 
-
 </div>
-
 
 ## `connect()`
 
@@ -119,9 +130,18 @@ Keep building. Keep learning. Keep breaking things responsibly.
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=ffffff&color=0:0f172a,100:0f766e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=0f172a&color=0:e2e8f0,100:99f6e4" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=0f172a&color=0:e2e8f0,100:99f6e4" alt="See you in the next commit" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=ffffff&color=0:0f172a,100:0f766e"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=0f172a&color=0:e2e8f0,100:99f6e4"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=24&fontColor=0f172a&color=0:e2e8f0,100:99f6e4"
+    alt="See you in the next commit"
+  />
 </picture>
 
 </div>
