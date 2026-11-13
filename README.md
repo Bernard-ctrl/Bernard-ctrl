@@ -85,11 +85,11 @@ communication: say hi - I'm always happy to talk tech
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&hide_border=true" alt="Bernard's GitHub statistics" />
+<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api?username=Bernard-ctrl&show_icons=true&include_all_commits=true&hide=contribs&theme=gotham&hide_border=true" alt="Bernard's GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Bernard's most used languages" />
+<img height="170" src="https://github-readme-stats-jade-omega-60.vercel.app/api/top-langs/?username=Bernard-ctrl&layout=compact&langs_count=8&theme=gotham&hide_border=true" alt="Bernard's most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=Bernard-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Bernard-ctrl&theme=gotham&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
