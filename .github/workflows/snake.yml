@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Bernard-ctrl
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%230f766e&color_dots=%23e2e8f0,%2399f6e4,%235eead4,%2314b8a6,%230f766e
+            dist/github-snake-dark.svg?color_snake=%235eead4&color_dots=%23334155,%230f766e,%2314b8a6,%235eead4,%23ccfbf1
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
