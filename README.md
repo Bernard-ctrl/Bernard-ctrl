@@ -78,6 +78,29 @@ communication: say hi - I'm always happy to talk tech
 />
 </div>
 
+
+## `contribution_activity`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Bernard-ctrl/Bernard-ctrl/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Bernard-ctrl/Bernard-ctrl/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Bernard-ctrl/Bernard-ctrl/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+
 ## `connect()`
 
 Have an idea, a question, or a cool project to share?
